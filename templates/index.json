@@ -75,6 +75,7 @@
         "item_bDCLdL": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/National_News.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -129,7 +130,7 @@
       ],
       "settings": {
         "full_width": false,
-        "block_size": "medium",
+        "block_size": "small",
         "subheading": "",
         "title": "",
         "content": "",
