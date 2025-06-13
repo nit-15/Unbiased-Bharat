@@ -161,8 +161,8 @@
       ],
       "custom_css": [],
       "settings": {
-        "full_width": false,
-        "block_size": "small",
+        "full_width": true,
+        "block_size": "medium",
         "subheading": "",
         "title": "",
         "content": "",
@@ -190,7 +190,6 @@
       "block_order": [
         "blog_AKWnQM"
       ],
-      "name": "Feeds",
       "settings": {
         "full_width": true,
         "show_excerpt": true,
