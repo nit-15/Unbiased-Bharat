@@ -101,6 +101,7 @@
         "item_kmgHPe": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Legal_Judiciary.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -111,6 +112,45 @@
           }
         },
         "item_zqU3DR": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Environment_Climate.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_tYeEqt": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Technology_Innovation.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_zmKB94": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Fact_Check.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_qFmGzp": {
           "type": "item",
           "settings": {
             "stretch_image": true,
@@ -127,7 +167,10 @@
         "item_bDCLdL",
         "item_6WFDX4",
         "item_kmgHPe",
-        "item_zqU3DR"
+        "item_zqU3DR",
+        "item_tYeEqt",
+        "item_zmKB94",
+        "item_qFmGzp"
       ],
       "custom_css": [],
       "settings": {
