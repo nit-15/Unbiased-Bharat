@@ -88,6 +88,7 @@
         "item_6WFDX4": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Economy_Business.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -128,6 +129,7 @@
         "item_kmgHPe",
         "item_zqU3DR"
       ],
+      "custom_css": [],
       "settings": {
         "full_width": false,
         "block_size": "small",
