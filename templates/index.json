@@ -158,7 +158,7 @@
       "block_order": [
         "blog_AKWnQM"
       ],
-      "name": "Blog posts",
+      "name": "Feeds",
       "settings": {
         "full_width": true,
         "show_excerpt": true,
@@ -167,7 +167,7 @@
         "show_comments_count": false,
         "show_category": true,
         "subheading": "",
-        "title": "Blog posts",
+        "title": "News Feed",
         "content": "",
         "link_url": "",
         "link_text": "View all",
