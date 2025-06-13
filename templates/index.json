@@ -149,18 +149,6 @@
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
-        },
-        "item_qFmGzp": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
         }
       },
       "block_order": [
@@ -169,8 +157,7 @@
         "item_kmgHPe",
         "item_zqU3DR",
         "item_tYeEqt",
-        "item_zmKB94",
-        "item_qFmGzp"
+        "item_zmKB94"
       ],
       "custom_css": [],
       "settings": {
